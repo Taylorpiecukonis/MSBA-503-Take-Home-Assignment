@@ -8,17 +8,17 @@ This GitHub repository contains the fully commented Python code and outputs for 
 # Part A(i): Deep Learning Object Detection
 Two deep learning models were applied to at least 10 images:
 
-# SSD MobileNet V2
+SSD MobileNet V2
 
-# EfficientDet D0
+EfficientDet D0
 
-For each image and each model, the following were measured:
+# For each image and each model, the following were measured:
 
-# Detection time
+Detection time
 
-# Number of objects detected
+#Number of objects detected
 
-# Detection confidence (probabilities)
+Detection confidence (probabilities)
 
 All outputs were recorded and presented in a comparison table in the Word document as required.
 
