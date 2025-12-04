@@ -31,7 +31,6 @@ Date: December 2025
 
 ## Project Structure
 
-.
 ├── Takehomeassignment.ipynb   # Main object detection notebook  
 ├── images/                   # Folder for input images  
 ├── data/                     # (Optional) Additional datasets  
